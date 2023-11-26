@@ -1,0 +1,36 @@
+//
+// To make future updates easier consider overriding the global variables from _variables.bootstrap.scss and _variables.custom.scss for current demo in this file.
+// Note that this file is included first and variables defined in _variables.bootstrap.scss and _variables.custom.scss
+// are not accessible in this file but you can override any global variable as shown below:
+//
+
+// Theme colors
+// Override primary color variants
+$primary: #1dcad3;
+$primary-hover:    									#003764 !default; // Custom variable
+$primary-light:    									#edfeff !default; // Custom variable
+$primary-inverse:  									#ffffff !default; // Custom variable
+
+$success:       									#38B430 !default; // Bootstrap variable
+$success-hover:    									#51CE49 !default; // Custom variable
+$success-light:    									#cbf7c9 !default; // Custom variable
+$success-inverse:  									#ffffff !default; // Custom variable
+
+$warning:       									#FFB71B !default; // Bootstrap variable
+$warning-hover:    									#E79E00 !default; // Custom variable
+$warning-light:    									#fffade !default; // Custom variable
+$warning-inverse:  									#ffffff !default; // Custom variable
+
+$danger:        									#E1251B !default; // Bootstrap variable
+$danger-hover:     									#E94E46 !default; // Custom variable
+$danger-light:     									#ffe2e2 !default; // Custom variable
+$danger-inverse:   									#ffffff !default; // Custom variable
+
+$pkara-navy: #003764; // Custom variable
+$pkara-darknav: #021729; // Custom variable
+$pkara-cyan: #1dcad3; // Custom variable
+$pkara-light: #edfeff; // Custom variable
+$pkara-white: #ffffff; // Custom variable
+$pkara-red: #E1251B; // Custom variable
+$pkara-green: #38B430; // Custom variable
+$pkara-yelow: #FFB71B; // Custom variable
